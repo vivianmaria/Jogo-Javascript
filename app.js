@@ -19,3 +19,5 @@ function gerarNumeroAleatorio () {
     return parseInt(Math.random() * 10 + 1)
 
 }
+
+// testing
